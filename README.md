@@ -1,21 +1,27 @@
-### Moin!
+# Hi, I'm Joshua 👋
 
-I'm Joshua. I love to build things with code people can use everywhere (aka from their smartphones) and exerimenting with different ways to interact with computers. Also true open-source advocate.
+📍 Hamburg | 🏭 M.Sc. Industrial Engineering | 📱 
 
-- 🥞 Professional Crêpe-distributor
-![Metrics](https://metrics.lecoq.io/jhoogstraat?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Europe%2FBerlin)
+Building bridges between hardware and software. I love creating tools people can use everywhere and experimenting with new ways to interact with computers.
 
-<!--
-**jhoogstraat/jhoogstraat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🥞 **Fun Fact:** Professional Crêpe-distributor.
 
-Here are some ideas to get you started:
+## Current Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏠 [homelab](https://github.com/jhoogstraat/homelab) - My personal systemd/quadlet homelab running on a custom bootc with a transient filesystem
+
+📱 [fast_barcode_scanner](https://github.com/jhoogstraat/fast_barcode_scanner) - A Flutter plugin that allows your users to scan any type of barcode on iOS and Android.
+
+🧠 [EdgeAI](https://github.com/jhoogstraat/EdgeAI) - The backbone that combines camera, object detection, and motor steering into a server.
+
+🏠 [mietbot](https://github.com/jhoogstraat/mietbot) - A Discord bot that notifies you when a new cooperative flat becomes available.
+
+🏃 [tao-runner](https://github.com/jhoogstraat/tao-runner) - A support library that simplifies working with the NVIDIA TAO Toolkit.
+
+## Connect
+
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jhoogstraat/)
+[<img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" />](https://jhoogstraat.github.io/)
+
+---
+*Open to collaboration on IoT and Flutter projects.*
