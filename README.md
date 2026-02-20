@@ -1,6 +1,6 @@
 # Hi, I'm Joshua 👋
 
-📍 Hamburg | 🏭 M.Sc. Industrial Engineering | 📱 Software Solution Architect
+📍 Hamburg | 🏭 M.Sc. Industrial Engineering | 📱 Cloud Solutions Architect
 
 Building bridges between hardware and software. I love creating tools people can use everywhere and experimenting with new ways to interact with computers.
 
