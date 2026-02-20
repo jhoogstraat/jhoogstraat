@@ -24,4 +24,4 @@ Building bridges between hardware and software. I love creating tools people can
 [<img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" />](https://jhoogstraat.github.io/)
 
 ---
-*Open to collaboration on IoT and Flutter projects.*
+*Open to collaboration*
