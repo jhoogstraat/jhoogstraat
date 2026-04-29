@@ -1,14 +1,14 @@
 ###  👋 Hello there, I'm Joshua
 
 My passion is solving computer problems and making people's lives better as a side effect.
-I am an engineer at heart and always will be.
+Engineer at heart.
 
 I currently work at Lufthansa Industry Solutions as a software engineer.
 
 #### Favorite tools and tech
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=swift,golang,pkl" alt="Skills, Tools, and Technologies" />
+    <img src="https://skillicons.dev/icons?i=swift,golang,pkl,typescript" alt="Skills, Tools, and Technologies" />
   </a>
 </p>
 
