@@ -8,14 +8,14 @@ I currently work at Lufthansa Industry Solutions as a software engineer.
 #### Favorite tools and tech
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=swift,golang,pkl,typescript" alt="Skills, Tools, and Technologies" />
+    <img src="https://skillicons.dev/icons?i=swift,golang,flutter,typescript" alt="Skills, Tools, and Technologies" />
   </a>
 </p>
 
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bun,neovim,bash,kubernetes,grafana,gcp,raspberrypi" alt="Tools and Services" />
+    <img src="https://skillicons.dev/icons?i=kubernetes,grafana,git,azure,gcp,prometheus,bun,neovim,raspberrypi" alt="Tools and Services" />
   </a>
 </p>
 
